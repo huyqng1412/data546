@@ -1,0 +1,19 @@
+// Decision Tree
+digraph {
+	2694278769840 [label="Split on 'color'
+Value: 'green'
+Gain=0.9911" color=lightgreen shape=oval style=filled]
+	2694280047808 [label="Leaf
+Class: apple" color=lightblue shape=box style=filled]
+	2694278769840 -> 2694280047808 [label="== 'green'"]
+	2694280837328 [label="Split on 'size'
+Value: 'small'
+Gain=0.9710" color=lightgreen shape=oval style=filled]
+	2694280836944 [label="Leaf
+Class: grape" color=lightblue shape=box style=filled]
+	2694280837328 -> 2694280836944 [label="== 'small'"]
+	2694279674384 [label="Leaf
+Class: cherry" color=lightblue shape=box style=filled]
+	2694280837328 -> 2694279674384 [label="!= 'small'"]
+	2694278769840 -> 2694280837328 [label="!= 'green'"]
+}
