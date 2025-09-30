@@ -1,0 +1,13 @@
+label,text
+ham,"Hi team, the meeting for tomorrow is scheduled for 10 AM. Please find the agenda attached."
+phishing,"URGENT: Your account has been suspended due to unusual activity. Please verify your identity immediately by clicking here: http://bit.ly/secure-login-update"
+ham,"Thanks for your order! Your package will be shipped within 3-5 business days."
+phishing,"Congratulations! You have been selected to win a free iPhone. Claim your prize now by providing your shipping and payment details."
+ham,"Just a reminder that the weekly report is due by the end of the day. Let me know if you have any questions."
+phishing,"Your bank account requires verification. To avoid account closure, please log in and update your information using the link below."
+ham,"Can you please review the attached document and provide your feedback? Thanks!"
+phishing,"We have detected a security breach on your email. Click here to reset your password and secure your account immediately."
+ham,"Looking forward to seeing you at the company picnic this weekend!"
+phishing,"Your invoice is ready. Please click the link to view and pay your bill. Failure to pay will result in service termination."
+ham,"Great job on the presentation today, everyone was very impressed."
+phishing,"A package is waiting for you at the customs office. To release it, you must pay a small import fee. Pay here to proceed."
