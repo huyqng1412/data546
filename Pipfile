@@ -11,8 +11,10 @@ seaborn = "*"
 duckdb = "*"
 ucimlrepo = "*"
 scikit-learn = "*"
+ipykernel = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.13"
