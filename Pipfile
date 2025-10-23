@@ -4,14 +4,18 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pandas = "*"
-matplotlib = "*"
-numpy = "*"
-seaborn = "*"
 duckdb = "*"
 ucimlrepo = "*"
+pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+numpy = "*"
+tensorflow = "*"
 scikit-learn = "*"
 ipykernel = "*"
+xgboost = "*"
+torch = "*"
+jupyter = "*"
 
 [dev-packages]
 ipykernel = "*"
